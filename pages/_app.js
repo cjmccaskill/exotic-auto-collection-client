@@ -1,4 +1,4 @@
-import "../styles/globals.css";
+import "tailwindcss/tailwind.css";
 import { ApolloProvider } from "@apollo/react-hooks";
 import withData from "../utils/apollo";
 
